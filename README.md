@@ -1,3 +1,6 @@
+# URL de la aplicación desplegada
+http://aplicacionwarsteiners-env.eba-uap24q2q.us-east-1.elasticbeanstalk.com/
+
 # Ejemplo de despliegue de aplicaciones con GitHub Actions
 Este repositorio está configurado para desplegarse en AWS ElasticBeanstalk y Azure Web Apps mediante GitHub Actions.
 
